@@ -3,7 +3,7 @@
 I am **Kuan Chung Huang**, aka **Aar0n**. I'm a software developer with solid front-end and back-end skills and long time development experience on web tech.
 
 [![Linkedin Badge](https://img.shields.io/badge/-aar0ntw-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aar0ntw/)](https://www.linkedin.com/in/aar0ntw/)
-[![Linkedin Badge](https://img.shields.io/badge/-aar0ntw-41454A?style=flat-square&logo=twitter&logoColor=#1DA1F2&link=https://www.linkedin.com/in/aar0ntw/)](https://www.linkedin.com/in/aar0ntw/)
+[![Linkedin Badge](https://img.shields.io/badge/-aar0ntw-41454A?style=flat-square&logo=twitter&logoColor=#1DA1F2&link=https://twitter.com/aar0ntw/)](https://twitter.com/aar0ntw/)
 
 
 ![Aaron's GitHub stats](https://github-readme-stats.vercel.app/api?username=aar0ntw&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
